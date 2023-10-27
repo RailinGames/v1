@@ -1,5 +1,5 @@
 <p align="center">
-<img style="height: 200px;" src="https://railingames.github.io/imgs/Logo.png">
+<img style="height: 200px;" src="https://github.com/RailinGames/v1/blob/main/imgs/Logo.png?raw=true">
 </p>
 <h1 align="center">Railin'</h1>
 <p align="center">Best unblocked game site on the block 😎</p>
